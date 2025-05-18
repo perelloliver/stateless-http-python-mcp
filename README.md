@@ -14,7 +14,7 @@ docker run --rm -it \
   stateless-http-python-mcp
 ```
 
-## Load the inspector
+## Run the inspector
 ```
 mcp dev app/main.py
 ```
